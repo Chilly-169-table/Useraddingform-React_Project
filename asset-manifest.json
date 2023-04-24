@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Useraddingform-React_Project/static/css/main.2eb6db20.css",
+    "main.js": "/Useraddingform-React_Project/static/js/main.9fb9e12e.js",
+    "static/js/787.7b5bfd31.chunk.js": "/Useraddingform-React_Project/static/js/787.7b5bfd31.chunk.js",
+    "index.html": "/Useraddingform-React_Project/index.html",
+    "main.2eb6db20.css.map": "/Useraddingform-React_Project/static/css/main.2eb6db20.css.map",
+    "main.9fb9e12e.js.map": "/Useraddingform-React_Project/static/js/main.9fb9e12e.js.map",
+    "787.7b5bfd31.chunk.js.map": "/Useraddingform-React_Project/static/js/787.7b5bfd31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb6db20.css",
+    "static/js/main.9fb9e12e.js"
+  ]
+}
